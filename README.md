@@ -1,4 +1,4 @@
-### Hi there, I'm Pedro! I work with data engineering and i am the most curious person you can meet, i love learning about technology and programming. I live reading and trying to learn new things.
+### Hi there, I'm Pedro! I'm a data engineer and i am the most curious person you can meet, i love learning about technology and programming. I love reading and trying to learn new things.
 
 - 👨‍💻 I’m currently working on data engineer
 - 📚 I’m currently learning python, pyspark and java
