@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Pedro! I work with data engineering and i am the most curious person you can meet, i love learning about technology and programming. I live reading and trying to learn new things.
 
-- 🔭 I’m currently working on data engineer
-- 🌱 I’m currently learning python, pyspark and java
-- 😄 Certificates: AWS Certified Cloud Practitioner
-- ⚡ Fun fact: Before working with data I was a nurse
+- 👨‍💻 I’m currently working on data engineer
+- 📚 I’m currently learning python, pyspark and java
+- ⚡ Certificates: AWS Certified Cloud Practitioner
+- 😄 Fun fact: Before working with data I was a nurse
 
-![PierreBarboza's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreBarboza&theme=radical)
+![PierreBarboza's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreBarboza)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreBarboza&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pierre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
