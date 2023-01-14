@@ -5,11 +5,12 @@
 - 😄 Certificates: AWS Certified Cloud Practitioner
 - ⚡ Fun fact: Before working with data I was a nurse
 
-![PierreBarboza's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreBarboza&theme=tokyonight)
+![PierreBarboza's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreBarboza&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pierre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pierre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.kym-cdn.com/photos/images/newsfeed/001/315/785/807.gif?width=676&height=676">
 </div>
 <br>
 <br>
